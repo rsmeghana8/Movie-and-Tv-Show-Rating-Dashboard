@@ -4,7 +4,7 @@ Welcome to the Streaming Service Movie and TV Show Ratings Dashboard project! Th
 ## 📊 Project Overview
 This dashboard provides comprehensive insights into movie and TV show ratings, helping stakeholders make data-driven decisions.
 The key features of the dashboard include top 3 voted movies and TV shows and a Search bar to find specific title and its rating etc.
-![Dashboard Overview]([URL-or-Path-to-Image](https://drive.google.com/file/d/1GSWPnQkQoRm04vs8mUuTfBf_zsbpn7ZH/view?usp=sharing))
+![Dashboard Overview] ([URL-or-Path-to-Image](https://drive.google.com/file/d/1GSWPnQkQoRm04vs8mUuTfBf_zsbpn7ZH/view?usp=sharing))
 
 ## 🛠️ Technologies Used
 Power BI: For creating the interactive visualizations and dashboards.
