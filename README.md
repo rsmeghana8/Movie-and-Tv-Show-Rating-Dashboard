@@ -6,7 +6,7 @@ This dashboard provides comprehensive insights into movie and TV show ratings, h
 The key features of the dashboard include top 3 voted movies and TV shows and a Search bar to find specific title and its rating etc.
 
 ![Dashboard Overview] (Netflix-Dashboard.png) // for PNG
-
+<img src="Netflix-Dashboard.png" alt="Dashboard Overview" width="500"/>
 ## 🛠️ Technologies Used
 Power BI: For creating the interactive visualizations and dashboards.
 Excel: Used for initial data cleaning and preprocessing.
