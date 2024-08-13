@@ -12,4 +12,4 @@ The key features of the dashboard include the top 3 voted movies and TV shows an
 **Excel**: Used for initial data cleaning and preprocessing.
 
 ## 🚀 Live Project
-You can explore the live dashboard here: Streaming Ratings Dashboard
+You can explore the live dashboard here: [Streaming Ratings Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmRmNzlkNTctZDcwOC00MTU2LWE1YjItM2E5YjAwOWFjNTYyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
