@@ -5,7 +5,7 @@ Welcome to the Streaming Service Movie and TV Show Ratings Dashboard project! Th
 This dashboard provides comprehensive insights into movie and TV show ratings, helping stakeholders make data-driven decisions.
 The key features of the dashboard include top 3 voted movies and TV shows and a Search bar to find specific title and its rating etc.
 
-![Dashboard Overview] (Netlix_Dashboard.png)
+![Dashboard Overview] (Netlix-Dashboard.png)
 
 
 ## 🛠️ Technologies Used
